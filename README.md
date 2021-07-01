@@ -2,6 +2,8 @@
 Concept I Learn in Training
 
 
+### Before Learn Any Concept Just Relate Concept With Real World &  Chcek The Basic Code Syntax
+
 ## DATE - 01/07/2021
 
 
