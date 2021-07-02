@@ -62,6 +62,16 @@ MYSQL
      - SOAP(Simple Object Access Protocol)
 
 
+#### webapi.xml
+---------------
+          1) Route Node
+                 - url
+                 - methdo
+          2) Service Node
+          3) Resources
+          
+
+
  ## DATE - 02/07/2021
  
  
