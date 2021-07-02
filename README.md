@@ -50,10 +50,11 @@ MYSQL
 
 1) API (Application Programming Interface)
   --------------------------------------------
+  - To configure a web API, you define XML elements and attributes in a webapi.xml configuration file.
  - Types of API
  
-     - REST
-     - SOAP
+     - REST(Representational State Transfer)
+     - SOAP(Simple Object Access Protocol)
 
 
  ## DATE - 02/07/2021
