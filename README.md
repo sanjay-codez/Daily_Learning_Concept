@@ -105,10 +105,10 @@ MYSQL
 ## PLUGINS , EVENTS AND OBSERVERS , PREFERENCES
 -----------------------------------------------
 
-   1) PLUGINS
-    ----------
-       - 
-       
+ 
+  1) PLUGINS
+   ---------------
+        
        
    2) EVENTS & OBSERVERS
    ----------------------
