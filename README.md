@@ -91,6 +91,35 @@ MYSQL
    - Collection
    - Grid
        - Collection
+     
+     
+## SERVICE CONTRACT
+--------------------
+   
+   
+   
+##    
+   
+   
+   
+## PLUGINS , EVENTS AND OBSERVERS , PREFERENCES
+-----------------------------------------------
+   1) PLUGINS
+    ----------
+       - 
+       
+       
+   2) EVENTS & OBSERVERS
+   ----------------------
+   
+   
+   3) PREFERENCES
+   ---------------
+   
+   
+   
+    
+      
       
 
 ## CONFIGURATION
