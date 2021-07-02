@@ -9,7 +9,9 @@ Concept I Learn in Training
 
 ### PHP CONCEPT
 ---------------
-- 
+- Session
+- Cookie
+- Super Global Variable
 
 
 
