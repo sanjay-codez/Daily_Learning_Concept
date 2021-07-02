@@ -1,4 +1,4 @@
-# Daily_Learning_Concept
+# Daily_Learning_Concept --> NEVER LEFT THE TASK ANY COST COMPLETE THE TASK   -> ASK -> TRY -> RESEARCH -> REPEAT
 Concept I Learn in Training
 
 
